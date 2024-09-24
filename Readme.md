@@ -11,6 +11,7 @@
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
+- License
 
 ## Prerequisites
 
@@ -98,3 +99,7 @@
 - search: The term you want to search (e.g., business name or type).
 - total: The number of listings to retrieve (if available).
     
+
+## License
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
