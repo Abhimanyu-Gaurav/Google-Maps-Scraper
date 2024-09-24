@@ -30,7 +30,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhimanyu-Gaurav/Google-Maps-Scraper
+   https://github.com/Abhimanyu-Gaurav/Google-Maps-Scraper
 
 2. Navigate to the project directory:
    ```bash
