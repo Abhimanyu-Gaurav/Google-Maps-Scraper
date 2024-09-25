@@ -32,17 +32,19 @@
    ```bash
    https://github.com/Abhimanyu-Gaurav/Google-Maps-Scraper
 
-2. Set up a virtual environment (optional but recommended):
+2. Navigate to the project directory:
+   ```bash
+   cd Google-Maps-Scraper
+
+3. Set up a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Navigate to the project directory:
-   ```bash
-   cd Google-Maps-Scraper
 4. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   
 5. Ensure Playwright is installed and browsers are ready:
    ```bash
    playwright install
